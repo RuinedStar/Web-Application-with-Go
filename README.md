@@ -4,14 +4,19 @@ This is a project for praticing building web applications with Go language.
 
 # Quickstart
 
-## Build a simple web server
-Source code is from [3.2 Build a simple web server](https://github.com/astaxie/build-web-application-with-golang/blob/master/en/03.2.md#32-build-a-simple-web-server).
+``` bash
+# For an example go run ./Chap3.2/main.go
+go run ./Chap{x}/main.go
 ```
-go run ./Chap3.2/main.go
-```
-<div align="center">
-<img src="screenshots/Build a simple web server.png" alt="img"/>
-</div>
+
+|                                        Chapter 3.2                                        |                                Chapter 4.1                                |                                   Chapter 4.2                                   |
+| :---------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
+| ![img](screenshots/Build%20a%20simple%20web%20server.png) <br/> Build a simple web server | ![img](screenshots/Process%20form%20inputs.png) <br/> Process form inputs | ![img](screenshots/Verification%20of%20inputs.png) <br/> Verification of inputs |
+|                                      **Chapter 4.4**                                      |                              **Chapter 4.5**                              |                                                                                 |  |
+|        ![img](screenshots/Duplicate%20submissions.png) <br/> Duplicate submissions         |          ![img](screenshots/File%20upload.png) <br/> File upload          |
+
+
+
 
 # Reference
 
